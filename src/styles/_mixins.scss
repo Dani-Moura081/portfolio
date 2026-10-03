@@ -1,0 +1,8 @@
+$bp-md: 48rem;
+$bp-lg: 64rem;
+
+@mixin from($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}

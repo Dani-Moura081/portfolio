@@ -1,0 +1,31 @@
+@use '../../styles/mixins' as m;
+
+.groups {
+  display: grid;
+  gap: var(--space-4);
+
+  @include m.from(m.$bp-md) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.title {
+  margin-bottom: var(--space-2);
+  font-size: var(--text-base);
+  font-weight: 700;
+  color: var(--color-ink);
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+
+  li {
+    padding: 0.2rem 0.7rem;
+    font-size: var(--text-sm);
+    color: var(--color-primary);
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius);
+  }
+}

@@ -1,0 +1,41 @@
+// Paleta ligada ao currículo: azul-marinho + laranja pontual
+:root {
+  --color-bg: #f5f7fa;
+  --color-surface: #ffffff;
+  --color-ink: #17233b;
+  --color-muted: #55617a;
+  --color-line: #dde3ec;
+  --color-primary: #1f3a6e;
+  --color-accent: #d9730d;
+
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: clamp(1.5rem, 1.2rem + 1.2vw, 2rem);
+  --text-hero: clamp(2.25rem, 1.6rem + 3vw, 3.75rem);
+
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 1.5rem;
+  --space-4: 2rem;
+  --space-6: 3rem;
+  --space-8: 5rem;
+
+  --radius: 6px;
+  --container: 68rem;
+  --header-h: 4rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #0f1624;
+    --color-surface: #162033;
+    --color-ink: #e9eef7;
+    --color-muted: #a3aec4;
+    --color-line: #26324a;
+    --color-primary: #8fb0ee;
+    --color-accent: #f0993f;
+  }
+}

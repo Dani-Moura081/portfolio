@@ -1,0 +1,50 @@
+.item {
+  max-width: 46rem;
+  padding-left: var(--space-3);
+  border-left: 3px solid var(--color-accent);
+}
+
+.role {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-ink);
+}
+
+.company {
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.meta {
+  font-size: var(--text-sm);
+  color: var(--color-muted);
+}
+
+.highlights {
+  display: grid;
+  gap: var(--space-1);
+  margin-top: var(--space-3);
+
+  li {
+    position: relative;
+    padding-left: var(--space-3);
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.7em;
+      width: 0.5rem;
+      height: 2px;
+      background: var(--color-primary);
+    }
+  }
+}
+
+.stack {
+  margin-top: var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--color-muted);
+
+  strong { color: var(--color-ink); }
+}
