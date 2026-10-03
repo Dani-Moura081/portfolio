@@ -1,31 +1,52 @@
-🚀 Portfólio - Daniel Rodrigues
-📖 Apresentação
-Bem-vindo ao meu portfólio! Este é um projeto pessoal desenvolvido com tecnologias modernas para apresentar meu trabalho, experiências e habilidades como desenvolvedor front-end.
+<div align="center">
 
-Este portfólio foi criado com foco em uma experiência visual elegante, responsiva e acessível, destacando minha trajetória profissional, projetos desenvolvidos e stack tecnológica.
+# 🚀 Portfólio — Daniel Rodrigues
 
-✨ Sobre o Projeto
-Este portfólio é uma aplicação web moderna que apresenta:
+**Desenvolvedor Front-end | Interfaces modernas e experiências digitais**
 
-Introdução profissional com destaque para minha identidade e atuação
-Seção sobre mim com informações acadêmicas e profissionais
-Experiência profissional e trajetória no desenvolvimento web
-Projetos e entregas desenvolvidas
-Tecnologias e ferramentas que utilizo
-Formas de contato para oportunidades e parcerias
-🛠️ Stack Tecnológica
-O projeto foi construído utilizando:
+Um espaço para conhecer minha trajetória, explorar meus projetos e descobrir as tecnologias que uso para transformar ideias em experiências web.
 
-React
-TypeScript
-Vite
-Sass
-Composição de Linguagens
-TypeScript: 61.6%
-SCSS: 35.4%
-HTML: 3%
-📁 Estrutura do Projeto
-bash
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18">
+<img src="https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
+
+</div>
+
+---
+
+## 📖 Apresentação
+
+Este portfólio foi desenvolvido para apresentar meu trabalho e minha evolução como desenvolvedor front-end. A experiência combina um visual cuidadoso com uma navegação responsiva e acessível, dando destaque à minha história, aos projetos que desenvolvi e às ferramentas que fazem parte do meu dia a dia.
+
+## ✨ O que você encontra por aqui
+
+- **Apresentação profissional** — minha identidade, interesses e atuação;
+- **Sobre mim** — um pouco da minha trajetória acadêmica e profissional;
+- **Experiência** — etapas importantes da minha jornada no desenvolvimento web;
+- **Projetos** — trabalhos, ideias e soluções que desenvolvi;
+- **Tecnologias** — ferramentas e linguagens que utilizo;
+- **Contato** — um caminho para conversar sobre oportunidades e parcerias.
+
+## 🛠️ Stack tecnológica
+
+| Tecnologia | Uso |
+| --- | --- |
+| React | Construção da interface |
+| TypeScript | Tipagem e desenvolvimento mais confiável |
+| Vite | Ferramentas de desenvolvimento e build |
+| Sass | Estilização dos componentes e páginas |
+| HTML5 e CSS3 | Estrutura e apresentação da aplicação |
+
+### Composição de linguagens
+
+- TypeScript: 61,6%
+- SCSS: 35,4%
+- HTML: 3%
+
+## 📁 Estrutura do projeto
+
+```text
 src/
 ├── components/
 ├── sections/
@@ -37,69 +58,98 @@ src/
 ├── main.tsx
 ├── index.css
 └── ...
-🚀 Como executar
-Pré-requisitos
-Node.js 18+
-npm ou yarn
-Instalação
-bash
+```
+
+## 🚀 Como executar
+
+### Pré-requisitos
+
+- Node.js 18 ou superior
+- npm (incluído com o Node.js) ou yarn
+
+### Instalação
+
+```bash
 git clone https://github.com/Dani-Moura081/portfolio.git
 cd portfolio
 npm install
-Executando em desenvolvimento
-bash
+```
+
+### Desenvolvimento
+
+```bash
 npm run dev
-Build de produção
-bash
+```
+
+### Build de produção
+
+```bash
 npm run build
-Visualizando o build
-bash
+```
+
+### Pré-visualização do build
+
+```bash
 npm run preview
-📌 Funcionalidades
-Design responsivo
-Interface moderna e profissional
-Layout organizado por seções
-Acessibilidade básica
-Experiência de navegação fluida
-Estrutura escalável para futuras melhorias
-🧩 Tecnologias e Ferramentas
-React
-TypeScript
-Vite
-Sass
-HTML5
-CSS3
-📧 Contato
-Se você quiser conversar sobre oportunidades, colaborações ou projetos, fique à vontade para entrar em contato.
+```
 
-🚀 Portfolio - Daniel Rodrigues
-📖 Overview
-Welcome to my portfolio! This is a personal project developed with modern technologies to present my work, experience, and skills as a front-end developer.
+## 📌 Destaques
 
-This portfolio was created with a focus on an elegant, responsive, and accessible user experience, highlighting my professional journey, projects, and technical stack.
+- Layout responsivo para diferentes tamanhos de tela;
+- Interface moderna, organizada e fácil de explorar;
+- Navegação fluida entre as seções;
+- Atenção à legibilidade e à acessibilidade;
+- Estrutura preparada para receber novas melhorias.
 
-✨ About the Project
-This portfolio is a modern web application that showcases:
+## 📬 Contato
 
-Professional introduction with emphasis on my identity and work
-About me section with academic and professional information
-Work experience and career path in web development
-Projects and delivered work
-Technologies and tools I use
-Contact options for opportunities and collaborations
-🛠️ Tech Stack
-The project was built using:
+Quer conversar sobre uma oportunidade, colaboração ou projeto? Será um prazer trocar uma ideia.
 
-React
-TypeScript
-Vite
-Sass
-Language Composition
-TypeScript: 61.6%
-SCSS: 35.4%
-HTML: 3%
-📁 Project Structure
-bash
+- [GitHub — Dani-Moura081](https://github.com/Dani-Moura081)
+
+---
+
+<div align="center">
+
+Feito com cuidado por **Daniel Rodrigues** 💙
+
+</div>
+
+<details>
+<summary><strong>🇺🇸 English version</strong></summary>
+
+## 📖 Introduction
+
+Welcome to my portfolio! This personal project showcases my work, experience, and skills as a front-end developer. It was designed to provide a polished, responsive, and accessible experience while highlighting my professional journey, projects, and technical stack.
+
+## ✨ What you'll find
+
+- **Professional introduction** — my background, interests, and focus;
+- **About me** — a glimpse into my academic and professional journey;
+- **Experience** — key steps in my web development career;
+- **Projects** — selected work, ideas, and solutions;
+- **Technologies** — tools and languages I use;
+- **Contact** — a way to connect about opportunities and collaborations.
+
+## 🛠️ Tech stack
+
+| Technology | Purpose |
+| --- | --- |
+| React | User interface |
+| TypeScript | Safer, more reliable development |
+| Vite | Development tooling and build |
+| Sass | Component and page styling |
+| HTML5 and CSS3 | Application structure and presentation |
+
+### Language composition
+
+- TypeScript: 61.6%
+- SCSS: 35.4%
+- HTML: 3%
+
+## 📁 Project structure
+
+```text
 src/
 ├── components/
 ├── sections/
@@ -111,38 +161,53 @@ src/
 ├── main.tsx
 ├── index.css
 └── ...
-🚀 How to Run
-Prerequisites
-Node.js 18+
-npm or yarn
-Installation
-bash
+```
+
+## 🚀 Getting started
+
+### Prerequisites
+
+- Node.js 18 or later
+- npm (included with Node.js) or yarn
+
+### Installation
+
+```bash
 git clone https://github.com/Dani-Moura081/portfolio.git
 cd portfolio
 npm install
-Running in development mode
-bash
-npm run dev
-Production build
-bash
-npm run build
-Preview the build
-bash
-npm run preview
-📌 Features
-Responsive design
-Modern and professional interface
-Organized sections
-Basic accessibility
-Smooth navigation experience
-Scalable structure for future enhancements
-🧩 Technologies and Tools
-React
-TypeScript
-Vite
-Sass
-HTML5
-CSS3
-📧 Contact
-If you want to talk about opportunities, collaborations, or projects, feel free to get in touch.
+```
 
+### Development
+
+```bash
+npm run dev
+```
+
+### Production build
+
+```bash
+npm run build
+```
+
+### Preview the build
+
+```bash
+npm run preview
+```
+
+## 📌 Highlights
+
+- Responsive layout for different screen sizes;
+- Modern, organized, and easy-to-explore interface;
+- Smooth navigation between sections;
+- Attention to readability and accessibility;
+- Structure ready for future improvements.
+
+## 📬 Contact
+
+Interested in an opportunity, collaboration, or project? I'd be happy to connect.
+
+- [GitHub — Dani-Moura081](https://github.com/Dani-Moura081)
+
+</details>
